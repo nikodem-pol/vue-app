@@ -9,9 +9,13 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@primevue/themes": "^4.0.0-rc.2",
+    "@vee-validate/yup": "^4.13.1",
     "eslint": "^9.5.0",
     "eslint-plugin-vue": "^9.26.0",
     "pinia": "^2.1.7",
+    "primevue": "^4.0.0-rc.2",
+    "vee-validate": "^4.13.1",
     "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   },
